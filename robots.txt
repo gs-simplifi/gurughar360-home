@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.gurughar360.ca/sitemap.xml
